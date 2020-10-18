@@ -1,0 +1,8 @@
+Hans;43;Dornbirn;Coder
+Fritz;58;Nenzing;Officer
+Helga;45;Lustenau;Coder
+Frida;51;Fussach;Officer
+Peter;52;Bregenz;Officer
+Ali;25;Gaissau;Officer
+Peter;27;Bregenz;Officer
+Holger;22;Feldkirch;Coder

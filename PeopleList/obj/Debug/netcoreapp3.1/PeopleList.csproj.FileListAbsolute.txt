@@ -1,0 +1,13 @@
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.exe
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.deps.json
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.runtimeconfig.json
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.runtimeconfig.dev.json
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.dll
+C:\Coding\C#\PeopleList\PeopleList\bin\Debug\netcoreapp3.1\PeopleList.pdb
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.csprojAssemblyReference.cache
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.AssemblyInfoInputs.cache
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.AssemblyInfo.cs
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.csproj.CoreCompileInputs.cache
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.dll
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.pdb
+C:\Coding\C#\PeopleList\PeopleList\obj\Debug\netcoreapp3.1\PeopleList.genruntimeconfig.cache
